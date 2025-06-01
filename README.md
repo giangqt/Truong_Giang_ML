@@ -1,8 +1,1 @@
-"# Truong_Giang_ML" 
-"# Human_activity" 
-"# Lab3" 
-"# Lab3" 
-"# Lab3" 
-"# Lab3" 
-"# Lab3" 
-"# Lab3" 
+#This is my project and model that i have done during my first and second year in USTH university  
